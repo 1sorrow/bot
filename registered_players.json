@@ -1,0 +1,33 @@
+{
+    "1094193767126421565": {
+        "name": "s_r0w",
+        "id": "1094193767126421565",
+        "team": "FC Barcelona",
+        "status": "free_agent",
+        "2c": true,
+        "rating": "N/A",
+        "seasons": "inf"
+    },
+    "1222583018258956433": {
+        "name": "1stjr",
+        "team": "Inter Milan",
+        "seasons": "inf",
+        "2c": true
+    },
+    "1314261069128269885": {
+        "name": "someoneses",
+        "id": "1314261069128269885",
+        "team": "FC Barcelona",
+        "status": "signed",
+        "2c": false,
+        "rating": "N/A"
+    },
+    "901149305719623710": {
+        "name": "nanaha_0",
+        "id": "901149305719623710",
+        "team": "Inter Milan",
+        "status": "signed",
+        "2c": false,
+        "rating": "N/A"
+    }
+}

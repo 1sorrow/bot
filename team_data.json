@@ -1,0 +1,86 @@
+{
+    "Real Madrid": {
+        "players": {},
+        "manager": null,
+        "chairman": null,
+        "assistant_manager": null,
+        "roster": [],
+        "role_id": 1381058396936994947
+    },
+    "FC Barcelona": {
+        "players": {
+            "1314261069128269885": {
+                "seasons": 2
+            }
+        },
+        "manager": "1314261069128269885",
+        "chairman": "1094193767126421565",
+        "assistant_manager": null,
+        "roster": [
+            {
+                "id": "1314261069128269885",
+                "seasons": 2,
+                "release_clause": false
+            }
+        ],
+        "role_id": 1381057861701861407
+    },
+    "Manchester City": {
+        "players": {},
+        "manager": null,
+        "chairman": null,
+        "assistant_manager": null,
+        "roster": [],
+        "role_id": 1381059279221424128
+    },
+    "Manchester United": {
+        "players": {},
+        "manager": null,
+        "chairman": null,
+        "assistant_manager": null,
+        "roster": [],
+        "role_id": 1381059403360370798
+    },
+    "FC Liverpool": {
+        "players": {},
+        "manager": null,
+        "chairman": null,
+        "assistant_manager": null,
+        "roster": [],
+        "role_id": 1381059492682268744
+    },
+    "Arsenal FC": {
+        "players": {},
+        "manager": null,
+        "chairman": null,
+        "assistant_manager": null,
+        "roster": [],
+        "role_id": 1382012086909009980
+    },
+    "Inter Milan": {
+        "players": {
+            "901149305719623710": {
+                "seasons": 2
+            }
+        },
+        "manager": "1222583018258956433",
+        "chairman": "1222583018258956433",
+        "assistant_manager": null,
+        "roster": [
+            {
+                "id": "901149305719623710",
+                "seasons": 2,
+                "release_clause": false
+            }
+        ],
+        "role_id": 1381058509231226941
+    },
+    "Paris Saint Germain": {
+        "players": {},
+        "manager": null,
+        "chairman": null,
+        "assistant_manager": null,
+        "roster": [],
+        "role_id": 1381059097230839890
+    }
+}
